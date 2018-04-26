@@ -12,6 +12,8 @@
 import Foundation
 import CoreGraphics
 
+import CoreML
+
 #if !os(OSX)
     import UIKit
 #endif
