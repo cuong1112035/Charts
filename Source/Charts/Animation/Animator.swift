@@ -9,6 +9,9 @@
 //  https://github.com/danielgindi/Charts
 //
 
+//add some changes
+import CoreData
+
 import Foundation
 import CoreGraphics
 
